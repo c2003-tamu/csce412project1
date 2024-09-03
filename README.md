@@ -2,4 +2,8 @@
 
 ## lightsail.sh
 
-creates new lightsail instance in us-east-2a
+Creates new lightsail instance in us-east-2a
+
+## credentials.sh
+
+Gets credentials for newly created lightsail instance

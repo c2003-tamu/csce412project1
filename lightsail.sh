@@ -1,3 +1,5 @@
+#!/bin/bash
+
 aws lightsail create-instances \
     --instance-names "MyWindowsInstance" \
     --availability-zone us-east-2a \
